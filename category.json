@@ -1,52 +1,32 @@
 [
   {
-    "id": "1",
-    "title": "Technology",
-    "imageUrl": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=800"
+    "categoryId": "102",
+    "name": "Popular",
+    "thumbUrl": "https://app-assets-cdn.pusilung.io/wallpaper/categories/78528dda-04ce-415c-a731-c462df3319a1_burn.webp",
+    "createdAt": 1759307723
   },
   {
-    "id": "2",
-    "title": "Finance",
-    "imageUrl": "https://images.unsplash.com/photo-1569025690938-a00729c9e1f9?w=800"
+    "categoryId": "103",
+    "name": "Anime",
+    "thumbUrl": "https://app-assets-cdn.pusilung.io/wallpaper/categories/1271fc8a-db61-4717-8f2f-cf00eb899d7a_Anime_icon.webp",
+    "createdAt": 1760608526
   },
   {
-    "id": "3",
-    "title": "Education",
-    "imageUrl": "https://images.unsplash.com/photo-1584697964403-4ff6f06fa126?w=800"
+    "categoryId": "101",
+    "name": "Silly Smile",
+    "thumbUrl": "https://app-assets-cdn.pusilung.io/wallpaper/categories/3cd97264-7b37-41d2-8fd0-2d5c72517f8a_thumbnail_3.webp",
+    "createdAt": 1759307537
   },
   {
-    "id": "4",
-    "title": "Health",
-    "imageUrl": "https://images.unsplash.com/photo-1588776814546-ec7c13f23f17?w=800"
+    "categoryId": "105",
+    "name": "Animal",
+    "thumbUrl": "https://app-assets-cdn.pusilung.io/wallpaper/categories/eac85b8b-a719-4a28-8a8c-77016e215dfb_7727_450x800.webp",
+    "createdAt": 1762490887
   },
   {
-    "id": "5",
-    "title": "Travel",
-    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?w=800"
-  },
-  {
-    "id": "6",
-    "title": "Food",
-    "imageUrl": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?w=800"
-  },
-  {
-    "id": "7",
-    "title": "Sports",
-    "imageUrl": "https://images.unsplash.com/photo-1571019613914-85f342c1d64c?w=800"
-  },
-  {
-    "id": "8",
-    "title": "Art",
-    "imageUrl": "https://images.unsplash.com/photo-1526318472351-bc6c9f0d5ba3?w=800"
-  },
-  {
-    "id": "9",
-    "title": "Business",
-    "imageUrl": "https://images.unsplash.com/photo-1556740749-887f6717d7e4?w=800"
-  },
-  {
-    "id": "10",
-    "title": "Entertainment",
-    "imageUrl": "https://images.unsplash.com/photo-1497032205916-ac775f0649ae?w=800"
+    "categoryId": "104",
+    "name": "Halloween",
+    "thumbUrl": "https://app-assets-cdn.pusilung.io/wallpaper/categories/783b5799-fc89-493b-b8a7-ac2aab489699_halloween.webp",
+    "createdAt": 1760953967
   }
 ]
