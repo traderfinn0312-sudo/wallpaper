@@ -119,5 +119,36 @@
     "subType": 0,
     "type": 1,
     "coinToUnlock": 0
+  },
+  {
+    "id": "10200176",
+    "medias": [
+      {
+      "url": "https://app-assets-cdn.pusilung.io/wallpaper/assets/006c98ca-7eec-4edc-b64c-1c659e514355_8_6h.jpg",
+      "name": "8_6h.jpg",
+      "contentType": "image/jpeg"
+      },
+      {
+      "url": "https://app-assets-cdn.pusilung.io/wallpaper/assets/56376210-5222-4840-8a6f-d16157784ea1_8_12h.jpg",
+      "name": "8_12h.jpg",
+      "contentType": "image/jpeg"
+      },
+      {
+      "url": "https://app-assets-cdn.pusilung.io/wallpaper/assets/d99c5eec-90f8-410f-8314-82fcc14f8967_8_18h.jpg",
+      "name": "8_18h.jpg",
+      "contentType": "image/jpeg"
+      },
+      {
+      "url": "https://app-assets-cdn.pusilung.io/wallpaper/assets/1a30b9ab-8c8d-4af5-a0b8-c146507a8ee4_8_0h.jpg",
+      "name": "8_0h.jpg",
+      "contentType": "image/jpeg"
+      }
+    ],
+    "categoryId": "102",
+    "isPremium": false,
+    "createdAt": 1760669420,
+    "subType": 0,
+    "type": 1,
+    "coinToUnlock": 0
   }
 ]
