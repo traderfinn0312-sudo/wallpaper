@@ -121,7 +121,7 @@
     "isPremium": true,
     "createdAt": 1760677059,
     "subType": 0,
-    "type": 0,
+    "type": 1,
     "coinToUnlock": 0
   },
   {
@@ -138,7 +138,7 @@
     "isPremium": true,
     "createdAt": 1760677060,
     "subType": 0,
-    "type": 0,
+    "type": 1,
     "coinToUnlock": 0
   },
   {
